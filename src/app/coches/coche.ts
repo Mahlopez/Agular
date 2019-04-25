@@ -4,4 +4,5 @@ export class Coche{
 		public caballaje: string,
 		public color: string
 		){}
+	//proceso de git hub
 }
